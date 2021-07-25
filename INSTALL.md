@@ -1,5 +1,7 @@
-### [Google Chrome](https://chrome.google.com/webstore/detail/dracula-chrome-theme-dark/gfapcejdoghpoidkfodoiiffaaibpaem)
-
 #### Install
 
-1. Install theme through the [Google Chrome Store](https://chrome.google.com/webstore/detail/dracula-chrome-theme-dark/gfapcejdoghpoidkfodoiiffaaibpaem).
+1. Go to 'chrome://extensions/'
+1. Select `Pack extension`
+1. Choose this repo main directory
+1. Pack extension
+1. Load unpacked (select this repo main directory)
