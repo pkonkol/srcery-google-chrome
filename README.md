@@ -4,8 +4,7 @@
 
 ## Install
 
-Read <Install.md>
-
+Read [Install.md](INSTALL.md)
 ## License
 
 [MIT License](./LICENSE)
