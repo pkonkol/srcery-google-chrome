@@ -1,8 +1,8 @@
 {
-  "description": "Chrome Dracula scheme color theme",
+  "description": "Srcery is a color scheme with clearly defined contrasting colors and a slightly earthy tone. ",
   "manifest_version": 2,
-  "name": "Dracula Chrome Theme - Dark and Minimal",
-  "version": "2.4",
+  "name": "Srcery Chrome Theme",
+  "version": "1.0",
   "icons": {
     "16": "images/icon16.png",
     "48": "images/icon48.png",
